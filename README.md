@@ -12,10 +12,6 @@
 [![Email](https://img.shields.io/badge/Email-samanyuahuja%40gmail.com-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samanyuahuja@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-samanyuahuja-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samanyuahuja)
 
-![Profile views](https://komarev.com/ghpvc/?username=samanyuahuja&style=flat-square&color=7c3aed)
-![Followers](https://img.shields.io/github/followers/samanyuahuja?style=flat-square&color=4f46e5&label=Followers)
-![Stars](https://img.shields.io/github/stars/samanyuahuja?affiliations=OWNER&style=flat-square&color=2563eb&label=Stars)
-
 </div>
 
 ---
