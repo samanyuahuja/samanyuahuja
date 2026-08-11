@@ -158,13 +158,6 @@ Credentials from AWS, Oracle, NPTEL, and Cisco will be listed only after they ca
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=samanyuahuja&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=12&margin-h=12)
-
-</div>
 
 ---
 
