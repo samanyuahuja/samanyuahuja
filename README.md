@@ -8,7 +8,6 @@
 ![Student](https://img.shields.io/badge/Academic%20Stage-Freshman-7C3AED?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Software%20%26%20Quant%20Engineering-2563EB?style=flat-square)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-SamQuant-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://samquant.vercel.app)
 [![Email](https://img.shields.io/badge/Email-samanyuahuja%40gmail.com-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samanyuahuja@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-samanyuahuja-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samanyuahuja)
 
