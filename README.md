@@ -1,6 +1,6 @@
 # Samanyu Ahuja
 
-I am an incoming University of Illinois Urbana-Champaign student studying Information Sciences and Data Science. I build software for quantitative research, public-health education, and youth-led social initiatives.
+I am currently a freshman at University of Illinois Urbana-Champaign studying Information Sciences and Data Science. I build software for quantitative research, public-health education, and youth-led social initiatives.
 
 [Email](mailto:samanyuahuja@gmail.com) | [GitHub](https://github.com/samanyuahuja)
 
