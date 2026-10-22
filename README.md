@@ -20,15 +20,8 @@ A bilingual kidney-health education and preliminary screening service. It organi
 
 [Repository](https://github.com/samanyuahuja/NephroCare)
 
-### [Next Chapter Initiative](https://nextchapterinitiatives.com)
 
-The digital platform for a youth-led nonprofit working across literacy, technology education, and access. The project includes public information, programme pages, newsletter signup, and a validated contact workflow.
-
-`React` `TypeScript` `Vite` `Express` `Resend`
-
-[Repository](https://github.com/samanyuahuja/NCI)
-
-### [SamQuant](https://samquant.vercel.app)
+### [SamQuant](https://samquant.org)
 
 A quantitative research system for testing strategy ideas with validated market data, delayed execution, portfolio accounting, risk controls, and reproducible analysis. Historical results are treated as research evidence rather than forecasts.
 
